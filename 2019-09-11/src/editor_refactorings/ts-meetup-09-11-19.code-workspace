@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/Users/sihu/p/typescript/2019-09-11"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "2019-09-11/node_modules/typescript/lib"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "typescript-2019-09-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Simon Huber",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "react": "^16.9.0"
+  }
+}
